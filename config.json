@@ -1,5 +1,5 @@
-module.exports = {
-  prefix: "!",
-  ownerId: "",
-  adminIds: ["ADMIN_ID1", "ADMIN_ID2"],
-};
+{
+  "prefix": "!",
+  "adminID": "1000xxxxxxxxxxx",
+  "ownerName": "Your Owner Name"
+}
