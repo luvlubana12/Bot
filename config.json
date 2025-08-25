@@ -1,4 +1,5 @@
-ADMIN_ID = '1234567890'  # Admin FB user ID
-BOT_PREFIX = '!'
-LOCKED_GROUP_NAME = None
-LOCKED_NICKNAMES = {}
+{
+  "prefix": "!",
+  "adminID": "1000xxxxxxxxx",
+  "ownerName": "THE LEGEND LOVE HARYANVI"
+}
