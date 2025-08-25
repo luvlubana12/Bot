@@ -1,7 +1,4 @@
-{
-  "prefix": "!",
-  "adminID": "1234567890",
-  "lockedNickname": "🔥 Member 🔒",
-  "lockedGroupName": "🚫 Locked Group 🚫",
-  "isLocked": false
-}
+ADMIN_ID = '1234567890'  # Admin FB user ID
+BOT_PREFIX = '!'
+LOCKED_GROUP_NAME = None
+LOCKED_NICKNAMES = {}
