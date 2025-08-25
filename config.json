@@ -1,5 +1,5 @@
-{
-  "prefix": "!",
-  "adminID": "1000xxxxxxxxx",
-  "ownerName": "THE LEGEND LOVE HARYANVI"
-}
+module.exports = {
+  prefix: "!",
+  ownerId: "",
+  adminIds: ["ADMIN_ID1", "ADMIN_ID2"],
+};
