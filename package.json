@@ -1,8 +1,0 @@
-{
-  "name": "messenger-lock-bot",
-  "version": "1.0.0",
-  "main": "index.js",
-  "dependencies": {
-    "fca-unofficial": "^6.0.0"
-  }
-}
